@@ -6,3 +6,5 @@ grade: 2nd grade
 sex: 'M'  
 
 something!
+
+### 1. 취미 업데이트
